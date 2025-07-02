@@ -30,3 +30,11 @@ This project demonstrates the use of cryptographic hash functions to ensure file
   ![image](https://github.com/user-attachments/assets/d59bbff7-a135-49e7-951a-f32e7813c8a4)
 
 - Sending both hash value outputs to a file.
+
+   ![image](https://github.com/user-attachments/assets/77c356e1-b9ea-46ee-819b-e8078a8b4d9b)
+
+ - Using the cat command  to display the hash values in the file1hash and file2hash files.
+
+   ![image](https://github.com/user-attachments/assets/5632820c-9320-4968-8de5-4f9741dfcb8d)
+
+  - Using the cmp command to compare the file hashes, the contents of the two files are different because the hash values of each file are different.
