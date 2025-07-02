@@ -26,15 +26,14 @@ This project demonstrates the use of cryptographic hash functions to ensure file
 
 - Using Sha256sum to create hash values for files.
 
-  ![image](https://github.com/user-attachments/assets/ebd88bf7-4aa2-4bdc-90a9-68012e52393b)
-  ![image](https://github.com/user-attachments/assets/d59bbff7-a135-49e7-951a-f32e7813c8a4)
+![image](https://github.com/user-attachments/assets/06996438-2394-495e-8875-27ca632aa037)
 
 - Sending both hash value outputs to a file.
 
-   ![image](https://github.com/user-attachments/assets/77c356e1-b9ea-46ee-819b-e8078a8b4d9b)
+![image](https://github.com/user-attachments/assets/77c356e1-b9ea-46ee-819b-e8078a8b4d9b)
 
- - Using the cat command  to display the hash values in the file1hash and file2hash files.
+- Using the cat command  to display the hash values in the file1hash and file2hash files.
 
-   ![image](https://github.com/user-attachments/assets/5632820c-9320-4968-8de5-4f9741dfcb8d)
+![image](https://github.com/user-attachments/assets/5632820c-9320-4968-8de5-4f9741dfcb8d)
 
-  - Using the cmp command to compare the file hashes, the contents of the two files are different because the hash values of each file are different.
+- Using the cmp command to compare the file hashes, the contents of the two files are different because the hash values of each file are different.
