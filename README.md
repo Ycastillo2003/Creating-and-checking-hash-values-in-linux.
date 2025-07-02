@@ -17,3 +17,11 @@ This project demonstrates the use of cryptographic hash functions to ensure file
 ![image](https://github.com/user-attachments/assets/b3f7ce41-385b-4ba5-937e-42f89e5c8fc6)
 
 - Using the ls command to list files in the directory.
+
+![image](https://github.com/user-attachments/assets/b542aa42-5f43-47fe-a78f-c2973b140ac1)
+
+- Using the cat command to display file contents and seeing that the files are identical.
+
+![image](https://github.com/user-attachments/assets/c2bfc895-4d00-44d3-800c-fdcc359d45d8)
+
+- Using
