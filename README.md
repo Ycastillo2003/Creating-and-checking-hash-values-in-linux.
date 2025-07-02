@@ -24,4 +24,9 @@ This project demonstrates the use of cryptographic hash functions to ensure file
 
 ![image](https://github.com/user-attachments/assets/c2bfc895-4d00-44d3-800c-fdcc359d45d8)
 
-- Using
+- Using Sha256sum to create hash values for files.
+
+  ![image](https://github.com/user-attachments/assets/ebd88bf7-4aa2-4bdc-90a9-68012e52393b)
+  ![image](https://github.com/user-attachments/assets/d59bbff7-a135-49e7-951a-f32e7813c8a4)
+
+- Sending both hash value outputs to a file.
