@@ -7,9 +7,13 @@ This project demonstrates the use of cryptographic hash functions to ensure file
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.
 - Various Linux commands.
-- Sha256 hashing algorithm. 
+- SHA256 hashing algorithm. 
 
 # Operating Systems Used </h2>
 - Linux.
 
 # Actions and observations
+
+![image](https://github.com/user-attachments/assets/b3f7ce41-385b-4ba5-937e-42f89e5c8fc6)
+
+- Using the ls command to list files in the directory.
