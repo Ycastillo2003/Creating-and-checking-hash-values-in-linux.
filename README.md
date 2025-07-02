@@ -1,1 +1,1 @@
-# Creating-and-checking-hash-values-in-linux.
+# Linux: Creating and checking hash values in linux.
